@@ -61,4 +61,8 @@ myConcatFunc([1], 1, '5'); // => [1, 1, '5']
 - [ ] Store the function name, argument sets and function in AST style might be more performant
 
 
+### License
 
+MIT Licensed. Use all you like at your own risky fun. Go nuts.
+
+Happy coding λ
